@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(Kombiniran-ured-shvedska-stena-i-visilka.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #444;
+    padding: 0.5rem 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.gallery img {
+    width: 100%;
+    max-width: 200px;
+    margin: 1rem;
+    display: inline-block;
+    border: 2px solid #ddd;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(103, 180, 21);
+
+}
+
+h2 {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+img {
+    background: fixed;
+    background-size: auto;
+}
+
+h3 {
+    font-size: x-large;
+    font-style: italic;
+    color: saddlebrown;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+    font-size: small;
+}
+
+footer {
+    font-size: x-small;
+}
